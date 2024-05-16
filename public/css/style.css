@@ -1,0 +1,181 @@
+.main-div{
+    background: #151515;
+}
+.navbar,.navbar * {
+    font-family: Satoshi, serif;
+    font-size: 16px;
+    font-weight: 500;
+    color: #FFFFFF;
+}
+nav ul{
+    background: #FFFFFF0A;
+    border-radius: 120px;
+}
+a:hover {
+    color:#FC8E51 !important;
+}
+.navbar-toggler .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(255, 255, 255, 0.7)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+.navbar-nav {
+    gap: 10px;
+    padding: 0 24px;
+}
+.btn-get-started{
+    border: 1px solid transparent;
+    border-image: linear-gradient(180deg, #FC8E51 0%, #FA61F9 100%);
+    border-image-slice: 1;
+    border-radius: 50%;
+    margin-left: auto;
+}
+.main-banner {
+    background-image: url("/images/hero-image.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: bottom;
+}
+.main-banner *, .section-details *{
+    font-family: Outfit, serif;
+}
+.main-banner h1:first-child{
+    font-size: 68px;
+    font-weight: 400;
+    line-height: 81.6px;
+    color: #FFFFFF;
+}
+.main-banner h1:nth-child(2) {
+    font-size: 68px;
+    background: -webkit-linear-gradient(90.87deg, #FC8E51 27.13%, #FA61F9 68.43%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    gap: 8px;
+}
+.main-banner p{
+    opacity: 70%;
+    color: #FFFFFF !important;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 28.8px;
+}
+.btn-start-now{
+    background: linear-gradient(180deg, #FC8E51 0%, #FA61F9 100%);
+    border-radius: 120px;
+}
+.card-services{
+    gap: 16px;
+    border-radius: 8px 0 0 0;
+    background: #FFFFFF1F;
+    border: 1px solid transparent;
+    border-image: linear-gradient(180deg, #FC8E51 0%, #FA61F9 100%);
+    border-image-slice: 1;
+    height: 12rem;
+}
+.card-text{
+    opacity: 70%;
+}
+.bestMarketing{
+    background-image: url("/images/bestMarketing.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.bestMarketing .card-services, .about-bestMarketing .card-services{
+    height: 16rem;
+}
+
+.pricingPlan .card-services{
+    height: 30rem;
+}
+.journey{
+    background: #FFFFFF1F;
+    gap: 20px;
+    border-radius: 24px;
+}
+.faq-div{
+    background: #272727;
+    border-radius: 20px;
+}
+.toggle-content {
+    display: none;
+    opacity: 80%;
+}
+.toggle-content.open {
+    display: block;
+}
+
+.contact-div{
+    background: #222222;
+    border-radius: 20px;
+}
+.blog-button{
+    padding: 2px 10px 2px 10px;
+    border-radius: 16px;
+}
+
+input, textarea {
+    border-right: none;
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    background-color: transparent;
+}
+input::placeholder, textarea::placeholder {
+    color: #ccc;
+}
+
+.btn-email{
+    background: #FFFFFF0A;
+    border-radius: 120px;
+}
+.btn-square{
+    background: linear-gradient(180deg, #FC8E51 0%, #FA61F9 100%);
+}
+footer, footer *{
+    font-family: Satoshi, serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: left;
+    color: #FFFFFF;
+}
+footer h5{
+    font-weight: 700;
+}
+footer p, footer ul li a{
+    opacity: 70%;
+    color: #FFFFFF !important;
+    font-size: 16px;
+}
+footer ul li a{
+    display: inline-block !important;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.7);
+}
+
+
+.about-banner {
+    background-image: url("/images/about-image.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: bottom;
+}
+.numbering{
+    font-size: 40px;
+    font-weight: 400;
+}
+
+@media (max-width: 576px) {
+    .main-banner h1:first-child{
+        font-size: 35px;
+    }
+    .main-banner h1:nth-child(2) {
+        font-size: 35px;
+    }
+    .remove-padding{
+        padding-top: 0 !important;
+        padding-bottom: 0 !important;
+    }
+    .remove-margin{
+        margin-top: 0 !important;
+        margin-bottom: 0 !important;
+    }
+}
