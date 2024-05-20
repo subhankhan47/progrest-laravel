@@ -163,6 +163,23 @@ footer ul li a{
     font-weight: 400;
 }
 
+.animated {
+    animation: uplift 3s ease;
+}
+
+@keyframes uplift {
+    0% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-20px);
+    }
+    100% {
+        transform: translateY(0);
+    }
+}
+
+
 @media (max-width: 576px) {
     .main-banner h1:first-child{
         font-size: 35px;
@@ -177,5 +194,15 @@ footer ul li a{
     .remove-margin{
         margin-top: 0 !important;
         margin-bottom: 0 !important;
+    }
+
+    .bestMarketing .card-services, .about-bestMarketing .card-services{
+        height: 18.5rem;
+    }
+    .pricingPlan .card-services{
+        height: 32rem;
+    }
+    .changeToDisplayBlock{
+        display: block !important;
     }
 }

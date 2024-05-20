@@ -28,7 +28,7 @@
                             <h4>UX review presentations</h4>
                         </div>
                         <p style="opacity: 70%;">How do you create compelling presentations that wow your colleagues and impress your managers?</p>
-                        <div class="d-flex">
+                        <div class="d-flex changeToDisplayBlock">
                             <button class="btn blog-button px-3 bg-white" style="color: #6941C6;" type="button">Design</button>
                             <button class="btn blog-button px-3 bg-white mx-2" style="color:#3538CD" type="button">Research</button>
                             <button class="btn blog-button px-3 bg-white" style="color: #C11574;" type="button">Presentation</button>
@@ -46,7 +46,7 @@
                             <h4>Migrating to Linear 101</h4>
                         </div>
                         <p style="opacity: 70%;">Linear helps streamline software projects, sprints, tasks, and bug tracking. Here’s how to get...</p>
-                        <div class="d-flex">
+                        <div class="d-flex changeToDisplayBlock">
                             <button class="btn blog-button px-3 bg-white" style="color: #6941C6;" type="button">Design</button>
                             <button class="btn blog-button px-3 bg-white mx-2" style="color:#3538CD" type="button">Research</button>
                         </div>
@@ -62,7 +62,7 @@
                             <h4>Building your API Stack</h4>
                         </div>
                         <p style="opacity: 70%;">The rise of RESTful APIs has been met by a rise in tools for creating, testing, and manag...</p>
-                        <div class="d-flex">
+                        <div class="d-flex changeToDisplayBlock">
                             <button class="btn blog-button px-3 bg-white" style="color: #6941C6;" type="button">Design</button>
                             <button class="btn blog-button px-3 bg-white mx-2" style="color:#3538CD" type="button">Research</button>
                         </div>
@@ -81,7 +81,7 @@
                     <h4>Grid system for better Design User Interface</h4>
                 </div>
                 <p style="opacity: 70%;">A grid system is a design tool used to arrange content on a webpage. It is a series of vertical and horizontal lines that create a matrix of intersecting points, which can be used to align and organize page elements. Grid systems are used to create a consistent look and feel across a website, and can help to make the layout more visually appealing and easier to navigate.</p>
-                <div class="d-flex">
+                <div class="d-flex changeToDisplayBlock">
                     <button class="btn blog-button px-3 bg-white" style="color: #6941C6;" type="button">Design</button>
                     <button class="btn blog-button px-3 bg-white mx-2" style="color:#3538CD" type="button">Interface</button>
                 </div>
@@ -97,7 +97,7 @@
                         <h4>Bill Walsh leadership lessons</h4>
                     </div>
                     <p style="opacity: 70%;">Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?</p>
-                    <div class="d-flex">
+                    <div class="d-flex changeToDisplayBlock">
                         <button class="btn blog-button px-3 bg-white" style="color: #6941C6;" type="button">Leadership</button>
                         <button class="btn blog-button px-3 bg-white mx-2" style="color:#3538CD" type="button">Management</button>
                         <button class="btn blog-button px-3 bg-white" style="color: #C11574;" type="button">Presentation</button>
@@ -110,7 +110,7 @@
                         <h4>PM mental models</h4>
                     </div>
                     <p style="opacity: 70%;">Mental models are simple expressions of complex processes or relationships.</p>
-                    <div class="d-flex">
+                    <div class="d-flex changeToDisplayBlock">
                         <button class="btn blog-button px-3 bg-white" style="color: #6941C6;" type="button">Product</button>
                         <button class="btn blog-button px-3 bg-white mx-2" style="color:#3538CD" type="button">Research</button>
                         <button class="btn blog-button px-3 bg-white" style="color: #C11574;" type="button">Frameworks</button>
@@ -123,7 +123,7 @@
                         <h4>What is Wireframing?</h4>
                     </div>
                     <p style="opacity: 70%;">Introduction to Wireframing and its Principles. Learn from the best in the industry.</p>
-                    <div class="d-flex">
+                    <div class="d-flex changeToDisplayBlock">
                         <button class="btn blog-button px-3 bg-white" style="color: #6941C6;" type="button">Design</button>
                         <button class="btn blog-button px-3 bg-white mx-2" style="color:#3538CD" type="button">Research</button>
                         <button class="btn blog-button px-3 bg-white" style="color: #C11574;" type="button">Presentation</button>
@@ -137,7 +137,7 @@
                     <h4>How collaboration makes us better designers</h4>
                 </div>
                 <p style="opacity: 70%;">Collaboration can make our teams stronger, and our individual designs better.</p>
-                <div class="d-flex">
+                <div class="d-flex changeToDisplayBlock">
                     <button class="btn blog-button px-3 bg-white" style="color: #6941C6;" type="button">Design</button>
                     <button class="btn blog-button px-3 bg-white mx-2" style="color:#3538CD" type="button">Research</button>
                     <button class="btn blog-button px-3 bg-white" style="color: #C11574;" type="button">Presentation</button>
@@ -150,7 +150,7 @@
                     <h4>Our top 10 Javascript frameworks to use</h4>
                 </div>
                 <p style="opacity: 70%;">JavaScript frameworks make development easy with extensive features and functionalities.</p>
-                <div class="d-flex">
+                <div class="d-flex changeToDisplayBlock">
                     <button class="btn blog-button px-3 bg-white" style="color: #6941C6;" type="button">Software Development</button>
                     <button class="btn blog-button px-3 bg-white mx-2" style="color:#3538CD" type="button">Tools</button>
                     <button class="btn blog-button px-3 bg-white" style="color: #C11574;" type="button">SaaS</button>
@@ -163,7 +163,7 @@
                     <h4>Podcast: Creating a better CX Community</h4>
                 </div>
                 <p style="opacity: 70%;">Starting a community doesn’t need to be complicated, but how do you get started?</p>
-                <div class="d-flex">
+                <div class="d-flex changeToDisplayBlock">
                     <button class="btn blog-button px-3 bg-white" style="color: #6941C6;" type="button">Podcasts</button>
                     <button class="btn blog-button px-3 bg-white mx-2" style="color:#3538CD" type="button">Customer Success</button>
                     <button class="btn blog-button px-3 bg-white" style="color: #C11574;" type="button">Presentation</button>

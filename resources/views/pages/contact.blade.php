@@ -59,8 +59,8 @@
 
                         <div class="my-2 ">
                             <p>Select Subject</p>
-                            <div class="d-flex">
-                                  <input type="radio" id="GeneralInquiry" name="fav_language" value="GeneralInquiry" class="w-auto">
+                            <div class="d-flex changeToDisplayBlock">
+                                  <input type="radio" id="GeneralInquiry" name="fav_language" value="GeneralInquiry" checked class="w-auto">
                                   <label for="html">General Inquiry</label>
                                 <input type="radio" id="GeneralInquiry" name="fav_language" value="GeneralInquiry" class="w-auto mx-2">
                                   <label for="html">General Inquiry</label>
