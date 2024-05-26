@@ -10,7 +10,6 @@
 
     <!-- CSS -->
     <link href="{{ asset('css/style.css') }}" rel="stylesheet">
-
     <title>Progrest</title>
 </head>
 <body>
@@ -21,6 +20,29 @@
     @include('partials.navbar')
     <!-- Center Content -->
     @yield('content')
+
+    @if (Request::url() == url('/'))
+<!-- Journey section -->
+    <div class="mx-0 row journey text-center py-3">
+        <h1 class="text-white mb-2 py-3">Our Clients</h1>
+        <div class="col-12 col-md-3 col-lg-3 col-sm-6 mb-2">
+            <img src="{{ asset('images/company1.png') }}" class="img-fluid">
+        </div>
+        <div class="col-12 col-md-2 col-lg-2 col-sm-6 mb-2">
+            <img src="{{ asset('images/company2.png') }}" class="img-fluid">
+        </div>
+        <div class="col-12 col-md-2 col-lg-2 col-sm-6 mb-2">
+            <img src="{{ asset('images/company3.png') }}" class="img-fluid">
+        </div>
+        <div class="col-12 col-md-2 col-lg-2 col-sm-6 mb-2">
+            <img src="{{ asset('images/company4.png') }}" class="img-fluid">
+        </div>
+        <div class="col-12 col-md-3 col-lg-3 col-sm-6 mb-2">
+            <img src="{{ asset('images/company5.png') }}" class="img-fluid">
+        </div>
+    </div>
+    @endif
+
     <!-- Footer -->
     @include('partials.footer')
 </div>
@@ -28,7 +50,10 @@
 <!-- Optional JavaScript; choose one of the two! -->
 
 <!-- Option 1: Bootstrap Bundle with Popper -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
 <!-- Option 2: Separate Popper and Bootstrap JS -->
 <!--

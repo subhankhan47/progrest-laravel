@@ -11,6 +11,9 @@ nav ul{
     background: #FFFFFF0A;
     border-radius: 120px;
 }
+.dropdown-menu{
+    background: #151515;
+}
 a:hover {
     color:#FC8E51 !important;
 }
@@ -29,9 +32,10 @@ a:hover {
     margin-left: auto;
 }
 .main-banner {
-    background-image: url("/images/hero-image.png");
-    background-size: cover;
-    background-repeat: no-repeat;
+    position: relative;
+    background-image: url("/images/overlay-gray.png"), url("/images/hero-image.png");
+    background-size: cover, cover;
+    background-repeat: no-repeat, no-repeat;
     background-position-y: bottom;
 }
 .main-banner *, .section-details *{
@@ -61,6 +65,20 @@ a:hover {
     background: linear-gradient(180deg, #FC8E51 0%, #FA61F9 100%);
     border-radius: 120px;
 }
+.div-stats{
+    border-radius: 8px 0 0 0;
+    background: #FFFFFF1F;
+    border: 1px solid transparent;
+    border-image: linear-gradient(180deg, #FC8E51 0%, #FA61F9 100%);
+    border-image-slice: 1;
+}
+.new-service-card{
+    background: #FFFFFF1F;
+    height: 33rem;
+    border-radius: 19px;
+
+
+}
 .card-services{
     gap: 16px;
     border-radius: 8px 0 0 0;
@@ -69,6 +87,15 @@ a:hover {
     border-image: linear-gradient(180deg, #FC8E51 0%, #FA61F9 100%);
     border-image-slice: 1;
     height: 12rem;
+}
+.card-services2{
+    gap: 16px;
+    border-radius: 8px 0 0 0;
+    background: #FFFFFF1F;
+    border: 1px solid transparent;
+    border-image: linear-gradient(180deg, #FC8E51 0%, #FA61F9 100%);
+    border-image-slice: 1;
+    height: 14rem;
 }
 .card-text{
     opacity: 70%;
@@ -87,7 +114,7 @@ a:hover {
 }
 .journey{
     background: #FFFFFF1F;
-    gap: 20px;
+    /*gap: 20px;*/
     border-radius: 24px;
 }
 .faq-div{
@@ -182,10 +209,16 @@ footer ul li a{
 
 @media (max-width: 576px) {
     .main-banner h1:first-child{
-        font-size: 35px;
+        font-size: 25px;
+        font-weight: 200;
+        line-height: 40px;
     }
-    .main-banner h1:nth-child(2) {
-        font-size: 35px;
+    .main-banner p{
+        font-size: 15px;
+
+    }
+    .new-service-card{
+        height: 37rem;
     }
     .remove-padding{
         padding-top: 0 !important;
@@ -204,5 +237,8 @@ footer ul li a{
     }
     .changeToDisplayBlock{
         display: block !important;
+    }
+    .card-services2{
+        height: 22rem;
     }
 }

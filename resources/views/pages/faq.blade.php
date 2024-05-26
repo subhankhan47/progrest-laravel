@@ -21,52 +21,52 @@
             <div class="col-12 col-lg-6 col-md-6 col-sm-12 text-white">
                 <div style="background: #313131; border-radius: 16px; box-shadow: 0px 5px 16px 0px #080F340F;" class="p-3 my-2">
                     <div class="d-flex justify-content-between align-items-center">
-                        <h4>Why is Webflow the best nocode tool?</h4>
+                        <h4>What is the first step in buying a home</h4>
                         <button class="btn btn-round text-white" style="background: linear-gradient(180deg, #FF6625 0%, #FA61F9 100%);" onclick="toggleContent(this)">-</button>
                     </div>
-                    <p class="toggle-content open">Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat aute irure dolor</p>
+                    <p class="toggle-content open">The first step is to get pre-approved for a mortgage. This helps  determine your budget and shows sellers that you're a serious buyer</p>
                 </div>
 
                 <div style="background: #313131; border-radius: 16px;box-shadow: 0px 5px 16px 0px #080F340F;" class="p-3 my-2">
                     <div class="d-flex justify-content-between">
-                        <h4>When did Webflow was founded?</h4>
+                        <h4>How do I find the right property for me</h4>
                         <button class="btn btn round text-white text-end" style="background: linear-gradient(180deg, #FF6625 0%, #FA61F9 100%);"  onclick="toggleContent(this)">+</button>
                     </div>
-                    <p class="toggle-content">Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat aute irure dolor</p>
+                    <p class="toggle-content">Contact us for more details.</p>
                 </div>
 
                 <div style="background: #313131; border-radius: 16px;box-shadow: 0px 5px 16px 0px #080F340F;" class="p-3 my-2">
                     <div class="d-flex justify-content-between">
-                        <h4>Is NoCode the future of the web?</h4>
+                        <h4>What should I consider when selling my home</h4>
                         <button class="btn btn round text-white text-end" style="background: linear-gradient(180deg, #FF6625 0%, #FA61F9 100%);" onclick="toggleContent(this)">+</button>
                     </div>
-                    <p class="toggle-content">Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat aute irure dolor</p>
+                    <p class="toggle-content">Contact us for more details.</p>
                 </div>
             </div>
             <div class="col-12 col-lg-6 col-md-6 col-sm-12  text-white">
 
                 <div style="background: #313131; border-radius: 16px;box-shadow: 0px 5px 16px 0px #080F340F;" class="p-3 my-2">
                     <div class="d-flex justify-content-between">
-                        <h4>How to launch a Webflow website?</h4>
+                        <h4>How is the market in my area?</h4>
                         <button class="btn btn round text-white text-end" style="background: linear-gradient(180deg, #FF6625 0%, #FA61F9 100%);"  onclick="toggleContent(this)">+</button>
                     </div>
-                    <p class="toggle-content">Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat aute irure dolor</p>
+                    <p class="toggle-content">Contact us for more details.</p>
                 </div>
 
                 <div style="background: #313131; border-radius: 16px;box-shadow: 0px 5px 16px 0px #080F340F;" class="p-3 my-2">
                     <div class="d-flex justify-content-between">
-                        <h4>Who founded BRIX Templates?</h4>
+                        <h4>How do I determine the value of my home?</h4>
                         <button class="btn btn round text-white text-end" style="background: linear-gradient(180deg, #FF6625 0%, #FA61F9 100%);"  onclick="toggleContent(this)">+</button>
                     </div>
-                    <p class="toggle-content">Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat aute irure dolor</p>
+                    <p class="toggle-content">Contact us for more details.</p>
                 </div>
 
                 <div style="background: #313131; border-radius: 16px;box-shadow: 0px 5px 16px 0px #080F340F;" class="p-3 my-2">
                     <div class="d-flex justify-content-between">
-                        <h4>Who are the Webflow founders?</h4>
+                        <h4>What are closing costs, and who pays them?</h4>
                         <button class="btn btn round text-white text-end" style="background: linear-gradient(180deg, #FF6625 0%, #FA61F9 100%);"  onclick="toggleContent(this)">+</button>
                     </div>
-                    <p class="toggle-content">Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat aute irure dolor</p>
+                    <p class="toggle-content">Contact us for more details.</p>
                 </div>
 
             </div>

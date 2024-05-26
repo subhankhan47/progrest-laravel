@@ -10,19 +10,31 @@
                     <a class="nav-link active" aria-current="page" href="{{ url('/') }}">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="{{ url('/about') }}">Product</a>
+                    <a class="nav-link" href="{{ url('/') }}#qualityServices">Services</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="{{ url('/blog') }}">Services</a>
+                    <a class="nav-link" href="{{ url('/about') }}">About</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="{{ url('/contact') }}">Contact</a>
+                    <a class="nav-link" href="{{ url('/') }}#Pricing">Packages</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ url('/blog') }}">Blogs</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="{{ url('/faq') }}">FAQ's</a>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="{{ url('/') }}#Pricing">Pricing</a>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownBlock" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Other Services
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdownBlock">
+                        <a class="dropdown-item" href="{{ url('/onlineMarketing') }}">Online Marketing</a>
+                        <a class="dropdown-item" href="{{ url('/training') }}">Training workshops</a>
+                        <a class="dropdown-item" href="{{ url('/virtualAssistance') }}">Online employees and Virtual Assistants</a>
+                        <a class="dropdown-item" href="{{ url('/webDevelopment') }}">Web Development</a>
+                        <a class="dropdown-item" href="{{ url('/mobileDevelopment') }}">Mobile Development</a>
+                    </div>
                 </li>
             </ul>
             <a class="nav-link" href="{{ url('/contact') }}"> <button class="btn btn-get-started" type="button" >Get Started</button></a>

@@ -15,7 +15,6 @@ class ContactController extends Controller
             'lName' => 'required|string|max:255',
             'email' => 'required|email|max:255',
             'number' => 'required|string|max:255',
-            'fav_language' => 'required|string',
             'message' => 'required|string',
         ]);
 
@@ -24,7 +23,6 @@ class ContactController extends Controller
             'last_name' => $validatedData['lName'],
             'email' => $validatedData['email'],
             'number' => $validatedData['number'],
-            'subject' => $validatedData['fav_language'],
             'message' => $validatedData['message'],
         ];
 

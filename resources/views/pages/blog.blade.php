@@ -25,9 +25,9 @@
                         <img src="{{ asset('images/blogPost1.png') }}" class="img-fluid">
                         <div class="my-2">
                             <h6 class="text-primary">Sunday, 1 Jan 2023</h6>
-                            <h4>UX review presentations</h4>
+                            <h4>Top Home Staging Tips for a Quick Sale</h4>
                         </div>
-                        <p style="opacity: 70%;">How do you create compelling presentations that wow your colleagues and impress your managers?</p>
+                        <p style="opacity: 70%;">Discover effective home staging techniques to make your property stand out and sell faster.</p>
                         <div class="d-flex changeToDisplayBlock">
                             <button class="btn blog-button px-3 bg-white" style="color: #6941C6;" type="button">Design</button>
                             <button class="btn blog-button px-3 bg-white mx-2" style="color:#3538CD" type="button">Research</button>
@@ -43,9 +43,9 @@
                     <div class="col-12 col-lg-6 col-md-6 col-sm-12">
                         <div class="my-2">
                             <h6 class="text-primary">Sunday, 1 Jan 2023</h6>
-                            <h4>Migrating to Linear 101</h4>
+                            <h4>Navigating the First-Time Home Buying Process</h4>
                         </div>
-                        <p style="opacity: 70%;">Linear helps streamline software projects, sprints, tasks, and bug tracking. Here’s how to get...</p>
+                        <p style="opacity: 70%;">A comprehensive guide to help first-time buyers understand the steps and make informed decisions.</p>
                         <div class="d-flex changeToDisplayBlock">
                             <button class="btn blog-button px-3 bg-white" style="color: #6941C6;" type="button">Design</button>
                             <button class="btn blog-button px-3 bg-white mx-2" style="color:#3538CD" type="button">Research</button>
@@ -59,9 +59,9 @@
                     <div class="col-12 col-lg-6 col-md-6 col-sm-12">
                         <div class="my-2">
                             <h6 class="text-primary">Sunday, 1 Jan 2023</h6>
-                            <h4>Building your API Stack</h4>
+                            <h4>Market Trends: What's Hot in Real Estate Right Now</h4>
                         </div>
-                        <p style="opacity: 70%;">The rise of RESTful APIs has been met by a rise in tools for creating, testing, and manag...</p>
+                        <p style="opacity: 70%;">Stay updated with the latest real estate trends and insights to make smart buying and selling decisions.</p>
                         <div class="d-flex changeToDisplayBlock">
                             <button class="btn blog-button px-3 bg-white" style="color: #6941C6;" type="button">Design</button>
                             <button class="btn blog-button px-3 bg-white mx-2" style="color:#3538CD" type="button">Research</button>
@@ -78,9 +78,9 @@
             <div class="col-12 col-lg-6 col-md-6 col-sm-12">
                 <div class="my-2">
                     <h6 class="text-primary">Sunday, 1 Jan 2023</h6>
-                    <h4>Grid system for better Design User Interface</h4>
+                    <h4>The Ultimate Checklist for Moving Day</h4>
                 </div>
-                <p style="opacity: 70%;">A grid system is a design tool used to arrange content on a webpage. It is a series of vertical and horizontal lines that create a matrix of intersecting points, which can be used to align and organize page elements. Grid systems are used to create a consistent look and feel across a website, and can help to make the layout more visually appealing and easier to navigate.</p>
+                <p style="opacity: 70%;">Ensure a smooth and stress-free move with our detailed moving day checklist.</p>
                 <div class="d-flex changeToDisplayBlock">
                     <button class="btn blog-button px-3 bg-white" style="color: #6941C6;" type="button">Design</button>
                     <button class="btn blog-button px-3 bg-white mx-2" style="color:#3538CD" type="button">Interface</button>
@@ -94,9 +94,9 @@
                     <img src="{{ asset('images/blogPost5.png') }}" class="img-fluid">
                     <div class="my-2">
                         <h6 class="text-primary">Sunday, 1 Jan 2023</h6>
-                        <h4>Bill Walsh leadership lessons</h4>
+                        <h4>How to Boost Your Home's Curb Appeal</h4>
                     </div>
-                    <p style="opacity: 70%;">Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?</p>
+                    <p style="opacity: 70%;">Learn simple yet effective ways to enhance your home's exterior and attract more buyers.</p>
                     <div class="d-flex changeToDisplayBlock">
                         <button class="btn blog-button px-3 bg-white" style="color: #6941C6;" type="button">Leadership</button>
                         <button class="btn blog-button px-3 bg-white mx-2" style="color:#3538CD" type="button">Management</button>
@@ -107,9 +107,9 @@
                     <img src="{{ asset('images/blogPost6.png') }}" class="img-fluid">
                     <div class="my-2">
                         <h6 class="text-primary">Sunday, 1 Jan 2023</h6>
-                        <h4>PM mental models</h4>
+                        <h4>Understanding Mortgage Rates: What You Need to Know</h4>
                     </div>
-                    <p style="opacity: 70%;">Mental models are simple expressions of complex processes or relationships.</p>
+                    <p style="opacity: 70%;">Get to grips with mortgage rates and how they impact your home buying journey.</p>
                     <div class="d-flex changeToDisplayBlock">
                         <button class="btn blog-button px-3 bg-white" style="color: #6941C6;" type="button">Product</button>
                         <button class="btn blog-button px-3 bg-white mx-2" style="color:#3538CD" type="button">Research</button>
@@ -120,9 +120,9 @@
                     <img src="{{ asset('images/blogPost7.png') }}" class="img-fluid">
                     <div class="my-2">
                         <h6 class="text-primary">Sunday, 1 Jan 2023</h6>
-                        <h4>What is Wireframing?</h4>
+                        <h4>The Benefits of Working with a Real Estate Agent</h4>
                     </div>
-                    <p style="opacity: 70%;">Introduction to Wireframing and its Principles. Learn from the best in the industry.</p>
+                    <p style="opacity: 70%;">Explore the advantages of hiring a professional realtor for your buying or selling needs.</p>
                     <div class="d-flex changeToDisplayBlock">
                         <button class="btn blog-button px-3 bg-white" style="color: #6941C6;" type="button">Design</button>
                         <button class="btn blog-button px-3 bg-white mx-2" style="color:#3538CD" type="button">Research</button>
@@ -134,9 +134,9 @@
                 <img src="{{ asset('images/blogPost8.png') }}" class="img-fluid">
                 <div class="my-2">
                     <h6 class="text-primary">Sunday, 1 Jan 2023</h6>
-                    <h4>How collaboration makes us better designers</h4>
+                    <h4>Investment Properties: What You Should Know Before Buying</h4>
                 </div>
-                <p style="opacity: 70%;">Collaboration can make our teams stronger, and our individual designs better.</p>
+                <p style="opacity: 70%;">Key considerations and tips for investing in real estate properties.</p>
                 <div class="d-flex changeToDisplayBlock">
                     <button class="btn blog-button px-3 bg-white" style="color: #6941C6;" type="button">Design</button>
                     <button class="btn blog-button px-3 bg-white mx-2" style="color:#3538CD" type="button">Research</button>
@@ -147,9 +147,9 @@
                 <img src="{{ asset('images/blogPost9.png') }}" class="img-fluid">
                 <div class="my-2">
                     <h6 class="text-primary">Sunday, 1 Jan 2023</h6>
-                    <h4>Our top 10 Javascript frameworks to use</h4>
+                    <h4>Renovations That Add Value to Your Home</h4>
                 </div>
-                <p style="opacity: 70%;">JavaScript frameworks make development easy with extensive features and functionalities.</p>
+                <p style="opacity: 70%;">Identify home improvement projects that offer the best return on investment</p>
                 <div class="d-flex changeToDisplayBlock">
                     <button class="btn blog-button px-3 bg-white" style="color: #6941C6;" type="button">Software Development</button>
                     <button class="btn blog-button px-3 bg-white mx-2" style="color:#3538CD" type="button">Tools</button>
@@ -160,9 +160,9 @@
                 <img src="{{ asset('images/blogPost10.png') }}" class="img-fluid">
                 <div class="my-2">
                     <h6 class="text-primary">Sunday, 1 Jan 2023</h6>
-                    <h4>Podcast: Creating a better CX Community</h4>
+                    <h4>Common Home Selling Mistakes and How to Avoid Them</h4>
                 </div>
-                <p style="opacity: 70%;">Starting a community doesn’t need to be complicated, but how do you get started?</p>
+                <p style="opacity: 70%;">Learn about frequent pitfalls in the home selling process and strategies to steer clear of them</p>
                 <div class="d-flex changeToDisplayBlock">
                     <button class="btn blog-button px-3 bg-white" style="color: #6941C6;" type="button">Podcasts</button>
                     <button class="btn blog-button px-3 bg-white mx-2" style="color:#3538CD" type="button">Customer Success</button>

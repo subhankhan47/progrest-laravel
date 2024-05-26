@@ -18,15 +18,23 @@
     <div class="section-details container p-2">
         <div class="row py-3 px-4">
             <!-- Mission Section -->
-            <div class="col-12 col-lg-6 col-md-6 col-sm-12 text-left text-white my-5 p-4 remove-margin">
-                <div class="p-3 ">
-                    <h1>We're on a Mission</h1>
-                    <p class="my-2" style="opacity:80%">A leading Real Estate services and digital marketing <br>solutions company, that empowers realtors to <br>increase their sales through digital strategies
+            <div class="col-12 col-lg-6 col-md-6 col-sm-12 text-left text-white my-3 p-4 remove-margin">
+                <div class="p-3 mt-3 remove-margin">
+                    <h1>Our Mission</h1>
+                    <p class="my-2" style="opacity:80%">Our mission is to transform and simplify the real estate <br>
+                        industry through innovative appointment booking solutions.<br>
+                        We empower real estate professionals by enhancing efficiency<br>
+                        and driving exceptional success. Our cutting-edge tools are<br>
+                        designed to streamline operations, improve client <br>
+                        interactions, and optimize scheduling processes. By leveraging <br>
+                        our advanced technology, real estate professionals can focus <br>
+                        more on their core business, achieve higher productivity,<br>
+                        and provide superior service to their clients. We are committed <br>
+                        to delivering unparalleled solutions that foster growth and success in the real estate sector.
                     </p>
-                    <button class="btn btn-start-now text-white my-3" type="button">Explore Our Services</button>
                 </div>
             </div>
-            <div class="col-12 col-lg-6 col-md-6 col-sm-12 my-5 py-3 remove-margin">
+            <div class="col-12 col-lg-6 col-md-6 col-sm-12 my-3 py-3 remove-margin">
                 <img src="{{ asset('images/about-homeFrame.png') }}" class="img-fluid w-100">
             </div>
         </div>
@@ -95,23 +103,23 @@
 
 
         <!-- Pricing Plan section -->
-        <div class="row pricingPlan text-left p-5 text-center remove-padding">
-            <div class="col-12 col-lg-4 col-md-4 col-sm-12 my-3">
-                <div class="my-2">
-                    <img src="{{ asset('images/round1.png') }}" class="img-fluid">
-                </div>
-            </div>
-            <div class="col-12 col-lg-4 col-md-4 col-sm-12 my-3">
-                <div class="my-2">
-                    <img src="{{ asset('images/round2.png') }}" class="img-fluid">
-                </div>
-            </div>
-            <div class="col-12 col-lg-4 col-md-4 col-sm-12 my-3">
-                <div class="my-2">
-                    <img src="{{ asset('images/round3.png') }}" class="img-fluid">
-                </div>
-            </div>
-        </div>
+{{--        <div class="row pricingPlan text-left p-5 text-center remove-padding">--}}
+{{--            <div class="col-12 col-lg-4 col-md-4 col-sm-12 my-3">--}}
+{{--                <div class="my-2">--}}
+{{--                    <img src="{{ asset('images/round1.png') }}" class="img-fluid">--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--            <div class="col-12 col-lg-4 col-md-4 col-sm-12 my-3">--}}
+{{--                <div class="my-2">--}}
+{{--                    <img src="{{ asset('images/round2.png') }}" class="img-fluid">--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--            <div class="col-12 col-lg-4 col-md-4 col-sm-12 my-3">--}}
+{{--                <div class="my-2">--}}
+{{--                    <img src="{{ asset('images/round3.png') }}" class="img-fluid">--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
 
         <!-- Journey section -->
         <div class="row journey text-center m-5">

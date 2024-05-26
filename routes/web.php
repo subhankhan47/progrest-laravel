@@ -33,5 +33,25 @@ Route::get('/faq', function () {
 Route::get('/contact', function () {
     return view('pages.contact');
 });
+// Online Marketing Route
+Route::get('/onlineMarketing', function () {
+    return view('pages.onlineMarketing');
+});
+// Training Route
+Route::get('/training', function () {
+    return view('pages.training');
+});
+// Virtual Assistance Route
+Route::get('/virtualAssistance', function () {
+    return view('pages.virtualAssistance');
+});
+// Web Development Route
+Route::get('/webDevelopment', function () {
+    return view('pages.webDevelopment');
+});
+// Mobile Development Route
+Route::get('/mobileDevelopment', function () {
+    return view('pages.mobileDevelopment');
+});
 // Send Email - Contact Details Route
 Route::post('/contact', [ContactController::class, 'sendContactEmail']);
