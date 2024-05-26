@@ -317,7 +317,7 @@
                             <div><img src="{{ asset('images/tick.png') }}" class="img-fluid mx-2"><span>Basic support</span>
                             </div>
                         </div>
-                        <button class="btn btn-square text-white my-2 w-100" type="button">Buy Now</button>
+                        <a class="nav-link" href="{{ url('/contact') }}"><button class="btn btn-square text-white my-2 w-100" type="button">Buy Now</button></a>
                     </div>
                 </div>
             </div>
@@ -348,7 +348,7 @@
                             <div><img src="{{ asset('images/tick.png') }}" class="img-fluid mx-2"><span>Basic support</span>
                             </div>
                         </div>
-                        <button class="btn btn-square text-white my-2 w-100" type="button">Buy Now</button>
+                        <a class="nav-link" href="{{ url('/contact') }}"> <button class="btn btn-square text-white my-2 w-100" type="button">Buy Now</button></a>
                     </div>
                 </div>
             </div>
@@ -379,7 +379,7 @@
                             <div><img src="{{ asset('images/tick.png') }}" class="img-fluid mx-2"><span>Basic support</span>
                             </div>
                         </div>
-                        <button class="btn btn-square text-white my-2 w-100" type="button">Buy Now</button>
+                        <a class="nav-link" href="{{ url('/contact') }}"> <button class="btn btn-square text-white my-2 w-100" type="button">Buy Now</button></a>
                     </div>
                 </div>
             </div>
