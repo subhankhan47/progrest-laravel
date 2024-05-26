@@ -29,9 +29,9 @@
                         </div>
                         <p style="opacity: 70%;">Discover effective home staging techniques to make your property stand out and sell faster.</p>
                         <div class="d-flex changeToDisplayBlock">
-                            <button class="btn blog-button px-3 bg-white" style="color: #6941C6;" type="button">Design</button>
-                            <button class="btn blog-button px-3 bg-white mx-2" style="color:#3538CD" type="button">Research</button>
-                            <button class="btn blog-button px-3 bg-white" style="color: #C11574;" type="button">Presentation</button>
+                            <button class="btn blog-button px-3 my-1 bg-white" style="color: #6941C6;" type="button">Design</button>
+                            <button class="btn blog-button px-3 my-1 bg-white mx-2" style="color:#3538CD" type="button">Research</button>
+                            <button class="btn blog-button px-3 my-1 bg-white" style="color: #C11574;" type="button">Presentation</button>
                         </div>
                     </div>
             </div>
@@ -98,9 +98,9 @@
                     </div>
                     <p style="opacity: 70%;">Learn simple yet effective ways to enhance your home's exterior and attract more buyers.</p>
                     <div class="d-flex changeToDisplayBlock">
-                        <button class="btn blog-button px-3 bg-white" style="color: #6941C6;" type="button">Leadership</button>
-                        <button class="btn blog-button px-3 bg-white mx-2" style="color:#3538CD" type="button">Management</button>
-                        <button class="btn blog-button px-3 bg-white" style="color: #C11574;" type="button">Presentation</button>
+                        <button class="btn blog-button px-3 bg-white my-1" style="color: #6941C6;" type="button">Leadership</button>
+                        <button class="btn blog-button px-3 bg-white mx-2 my-1" style="color:#3538CD" type="button">Management</button>
+                        <button class="btn blog-button px-3 bg-white my-1" style="color: #C11574;" type="button">Presentation</button>
                     </div>
             </div>
             <div class="col-12 col-lg-4 col-md-4 col-sm-12 mt-3">
@@ -111,9 +111,9 @@
                     </div>
                     <p style="opacity: 70%;">Get to grips with mortgage rates and how they impact your home buying journey.</p>
                     <div class="d-flex changeToDisplayBlock">
-                        <button class="btn blog-button px-3 bg-white" style="color: #6941C6;" type="button">Product</button>
-                        <button class="btn blog-button px-3 bg-white mx-2" style="color:#3538CD" type="button">Research</button>
-                        <button class="btn blog-button px-3 bg-white" style="color: #C11574;" type="button">Frameworks</button>
+                        <button class="btn blog-button px-3 bg-white my-1" style="color: #6941C6;" type="button">Product</button>
+                        <button class="btn blog-button px-3 bg-white mx-2 my-1" style="color:#3538CD" type="button">Research</button>
+                        <button class="btn blog-button px-3 bg-white my-1" style="color: #C11574;" type="button">Frameworks</button>
                     </div>
             </div>
             <div class="col-12 col-lg-4 col-md-4 col-sm-12 mt-3">
@@ -124,9 +124,9 @@
                     </div>
                     <p style="opacity: 70%;">Explore the advantages of hiring a professional realtor for your buying or selling needs.</p>
                     <div class="d-flex changeToDisplayBlock">
-                        <button class="btn blog-button px-3 bg-white" style="color: #6941C6;" type="button">Design</button>
-                        <button class="btn blog-button px-3 bg-white mx-2" style="color:#3538CD" type="button">Research</button>
-                        <button class="btn blog-button px-3 bg-white" style="color: #C11574;" type="button">Presentation</button>
+                        <button class="btn blog-button px-3 bg-white my-1" style="color: #6941C6;" type="button">Design</button>
+                        <button class="btn blog-button px-3 bg-white mx-2 my-1" style="color:#3538CD" type="button">Research</button>
+                        <button class="btn blog-button px-3 bg-white my-1" style="color: #C11574;" type="button">Presentation</button>
                     </div>
             </div>
 
@@ -138,9 +138,9 @@
                 </div>
                 <p style="opacity: 70%;">Key considerations and tips for investing in real estate properties.</p>
                 <div class="d-flex changeToDisplayBlock">
-                    <button class="btn blog-button px-3 bg-white" style="color: #6941C6;" type="button">Design</button>
-                    <button class="btn blog-button px-3 bg-white mx-2" style="color:#3538CD" type="button">Research</button>
-                    <button class="btn blog-button px-3 bg-white" style="color: #C11574;" type="button">Presentation</button>
+                    <button class="btn blog-button px-3 bg-white my-1" style="color: #6941C6;" type="button">Design</button>
+                    <button class="btn blog-button px-3 bg-white mx-2 my-1" style="color:#3538CD" type="button">Research</button>
+                    <button class="btn blog-button px-3 bg-white my-1" style="color: #C11574;" type="button">Presentation</button>
                 </div>
             </div>
             <div class="col-12 col-lg-4 col-md-4 col-sm-12 mt-3">
@@ -151,9 +151,9 @@
                 </div>
                 <p style="opacity: 70%;">Identify home improvement projects that offer the best return on investment</p>
                 <div class="d-flex changeToDisplayBlock">
-                    <button class="btn blog-button px-3 bg-white" style="color: #6941C6;" type="button">Software Development</button>
-                    <button class="btn blog-button px-3 bg-white mx-2" style="color:#3538CD" type="button">Tools</button>
-                    <button class="btn blog-button px-3 bg-white" style="color: #C11574;" type="button">SaaS</button>
+                    <button class="btn blog-button px-3 bg-white my-1" style="color: #6941C6;" type="button">Software Development</button>
+                    <button class="btn blog-button px-3 bg-white mx-2 my-1" style="color:#3538CD" type="button">Tools</button>
+                    <button class="btn blog-button px-3 bg-white my-1" style="color: #C11574;" type="button">SaaS</button>
                 </div>
             </div>
             <div class="col-12 col-lg-4 col-md-4 col-sm-12 mt-3">
@@ -164,9 +164,9 @@
                 </div>
                 <p style="opacity: 70%;">Learn about frequent pitfalls in the home selling process and strategies to steer clear of them</p>
                 <div class="d-flex changeToDisplayBlock">
-                    <button class="btn blog-button px-3 bg-white" style="color: #6941C6;" type="button">Podcasts</button>
-                    <button class="btn blog-button px-3 bg-white mx-2" style="color:#3538CD" type="button">Customer Success</button>
-                    <button class="btn blog-button px-3 bg-white" style="color: #C11574;" type="button">Presentation</button>
+                    <button class="btn blog-button px-3 bg-white my-1" style="color: #6941C6;" type="button">Podcasts</button>
+                    <button class="btn blog-button px-3 bg-white mx-2 my-1" style="color:#3538CD" type="button">Customer Success</button>
+                    <button class="btn blog-button px-3 bg-white my-1" style="color: #C11574;" type="button">Presentation</button>
                 </div>
             </div>
         </div>

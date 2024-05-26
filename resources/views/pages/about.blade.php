@@ -48,7 +48,7 @@
                         <h5 class="card-title "><span class="numbering">01</span> Leads Screening</h5>
                         <p class="card-text">Every single generated lead is called by our marketing executive to obtain consent.</p>
                     </div>
-                    <button class="btn btn-get-started text-white text-center m-3" type="button">Learn More</button>
+                    <a class="nav-link" href="{{ url('/contact') }}"><button class="btn btn-get-started text-white text-center m-3" type="button">Learn More</button></a>
                 </div>
             </div>
 
@@ -59,7 +59,7 @@
                             Appointments</h5>
                         <p class="card-text">All you need to do is focus on closing the deal, while we setup qualified listing appointments.</p>
                     </div>
-                    <button class="btn btn-get-started text-white text-center m-3" type="button">Learn More</button>
+                    <a class="nav-link" href="{{ url('/contact') }}"> <button class="btn btn-get-started text-white text-center m-3" type="button">Learn More</button></a>
                 </div>
             </div>
 
@@ -69,7 +69,7 @@
                         <h5 class="card-title "><span class="numbering">03</span> Assign to Realtor</h5>
                         <p class="card-text">All of the confirmed listing appointments from your chosen area are assigned to you in our web portal.</p>
                     </div>
-                    <button class="btn btn-get-started text-white text-center m-3" type="button">Learn More</button>
+                    <a class="nav-link" href="{{ url('/contact') }}"><button class="btn btn-get-started text-white text-center m-3" type="button">Learn More</button></a>
                 </div>
             </div>
 
@@ -79,7 +79,7 @@
                         <h5 class="card-title "><span class="numbering">04</span> Support Till Conversion</h5>
                         <p class="card-text">We provide 24/7 technical support until you get the deal.</p>
                     </div>
-                    <button class="btn btn-get-started text-white text-center m-3" type="button">Learn More</button>
+                    <a class="nav-link" href="{{ url('/contact') }}"> <button class="btn btn-get-started text-white text-center m-3" type="button">Learn More</button></a>
                 </div>
             </div>
 
@@ -127,8 +127,8 @@
                 <h1 class="text-white mb-2">Start your journey now</h1>
                 <h4 class="text-white mb-2" style="opacity: 80%">A data dashboard is a tool that collects and analyzes data, including key performance <br>indicators (KPI), metrics, and other data points that monitor progress over time. </h4>
                 <div class="d-flex justify-content-center my-2 text-center">
-                    <button class="btn btn-email text-white" type="button">Your email address</button>
-                    <button class="btn btn-start-now text-white mx-2" type="button">Learn More</button>
+                    <a class="nav-link" href="{{ url('/contact') }}"> <button class="btn btn-email text-white" type="button">Your email address</button></a>
+                    <a class="nav-link" href="{{ url('/contact') }}"><button class="btn btn-start-now text-white mx-2" type="button">Learn More</button></a>
                 </div>
             </div>
         </div>

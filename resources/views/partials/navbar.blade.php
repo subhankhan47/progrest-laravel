@@ -31,7 +31,7 @@
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownBlock">
                         <a class="dropdown-item" href="{{ url('/onlineMarketing') }}">Online Marketing</a>
                         <a class="dropdown-item" href="{{ url('/training') }}">Training workshops</a>
-                        <a class="dropdown-item" href="{{ url('/virtualAssistance') }}">Online employees and Virtual Assistants</a>
+                        <a class="dropdown-item" href="{{ url('/virtualAssistance') }}">Online employees and <br>Virtual Assistants</a>
                         <a class="dropdown-item" href="{{ url('/webDevelopment') }}">Web Development</a>
                         <a class="dropdown-item" href="{{ url('/mobileDevelopment') }}">Mobile Development</a>
                     </div>
