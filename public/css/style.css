@@ -3,7 +3,7 @@
 }
 .navbar,.navbar * {
     font-family: Satoshi, serif;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 500;
     color: #FFFFFF;
 }
@@ -22,7 +22,7 @@ a:hover {
 }
 .navbar-nav {
     gap: 10px;
-    padding: 0 24px;
+    padding: 14px 24px;
 }
 .btn-get-started{
     border: 1px solid transparent;
@@ -33,10 +33,26 @@ a:hover {
 }
 .main-banner {
     position: relative;
-    background-image: url("/images/overlay-gray.png"), url("/images/hero-image.png");
+    /*background-image: url("/images/overlay-gray.png"), url("/images/hero-image.png");*/
     background-size: cover, cover;
     background-repeat: no-repeat, no-repeat;
     background-position-y: bottom;
+}
+.slide {
+    position: relative;
+    height: 100vh; /* Adjust according to your needs */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.content {
+    position: relative;
+    z-index: 2;
+    color: #FFFFFF;
+    height: 100%; /* Make content fill the slide */
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .main-banner *, .section-details *{
     font-family: Outfit, serif;

@@ -37,7 +37,10 @@
                     </div>
                 </li>
             </ul>
-            <a class="nav-link" href="{{ url('/contact') }}"> <button class="btn btn-get-started" type="button" >Get Started</button></a>
+            <a class="nav-link" href="{{ url('/contact') }}">
+{{--                <button class="btn btn-get-started" type="button" >Contact Us</button>--}}
+                <button class="btn btn-start-now text-white px-3" type="button">Contact Us</button>
+            </a>
         </div>
     </div>
 </nav>

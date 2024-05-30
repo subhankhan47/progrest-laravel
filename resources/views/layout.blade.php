@@ -10,6 +10,9 @@
 
     <!-- CSS -->
     <link href="{{ asset('css/style.css') }}" rel="stylesheet">
+    <!-- Slick Slider CSS -->
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css"/>
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css"/>
     <title>Progrest</title>
 </head>
 <body>
@@ -53,6 +56,7 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
 <!-- Option 2: Separate Popper and Bootstrap JS -->
@@ -80,6 +84,20 @@
 
     window.addEventListener('scroll', animateCards);
     animateCards();
+</script>
+
+<script>
+    $(document).ready(function(){
+        $('.main-banner.slider').slick({
+            autoplay: true,
+            autoplaySpeed: 1500,
+            dots: false,
+            arrows: false,
+            fade: true,
+            cssEase: 'linear',
+            pauseOnHover: false
+        });
+    });
 </script>
 
 </body>

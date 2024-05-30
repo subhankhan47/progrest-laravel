@@ -4,22 +4,15 @@
 
 @section('content')
     <!--Main Banner Hero Image -->
-    <div class="main-banner">
-        <div class="text-center py-5">
-            <div class="py-3">
-                <h1>Maximizing Real Estate Success <br>
-                    Elevate Your Business with <br>Exclusive Seller Appointments</h1>
-                <p class="my-2">Revolutionize Your Real Estate Strategy with Strong hold listing.
-                    Your Premier Appointment Booking Partner. We pride ourselves as <br>pioneers in the appointment
-                    booking realm,
-                    offering unparalleled support to real estate professionals worldwide. With Strong hold listing, <br>you
-                    gain access
-                    to a dedicated team of experts committed to sourcing top-tier appointments, empowering
-                    you to concentrate <br>on sealing deals and expanding your real estate ventures.</p>
-                <a class="nav-link" href="{{ url('/contact') }}">
-                    <button class="btn btn-start-now text-white my-3 px-4" type="button">Start Now</button>
-                </a>
-            </div>
+    <div class="main-banner slider">
+        <div class="slide" style="background-image: url('/images/overlay-gray.png'), url('/images/hero-image.png');">
+           @include('partials.main-banner-content')
+        </div>
+        <div class="slide" style="background-image: url('/images/overlay-gray.png'), url('/images/hero-image2.png');">
+            @include('partials.main-banner-content')
+        </div>
+        <div class="slide" style="background-image: url('/images/overlay-gray.png'), url('/images/hero-image3.png');">
+            @include('partials.main-banner-content')
         </div>
     </div>
 
@@ -298,9 +291,9 @@
                             <span class="d-flex my-1">
                                 <h3 class="card-title">Basic</h3>
                             </span>
-                            <p class="card-text">start toward achieving your goals.</p>
-                            <span class="d-flex my-2"><h3 class="card-title"><sup>$</sup> 2,999<sub
-                                        style="font-size: small;"> /3 months</sub></h3></span>
+                            <p class="card-text mb-3">start toward achieving your goals.</p>
+                            <span class="d-flex my-4"><h1 class="card-title"><strong><sup>$</sup> 2,999<sub
+                                            style="font-size: small;"> /3 months</sub></strong></h1></span>
                         </div>
                         <div class="my-2">
                             <p class="card-text">Kickstart your journey with rapid
@@ -330,14 +323,16 @@
                             </span>
                             <p class="card-text">Accelerate your success with our<br>
                                 innovative solutions</p>
-                            <span class="d-flex my-2"><h3 class="card-title"><sup>$</sup> 5,999<sub
-                                        style="font-size: small;"> /6 months</sub></h3></span>
+                            <span class="d-flex my-2"><h1 class="card-title"><strong>
+                                        <sup>$</sup> 5,999<sub
+                                            style="font-size: small;"> /6 months</sub>
+                                    </strong></h1></span>
                         </div>
                         <div class="my-2">
                             <p class="card-text">Secure your highest achievements
                                 seamlessly</p>
                             <div><img src="{{ asset('images/tick.png') }}"
-                                      class="img-fluid mx-2"><span>72 appointments</span></div>
+                                      class="img-fluid mx-2"><span>65 appointments</span></div>
                             <div><img src="{{ asset('images/tick.png') }}"
                                       class="img-fluid mx-2"><span>13 appointments / each month</span></div>
                             <div><img src="{{ asset('images/tick.png') }}"
@@ -361,14 +356,15 @@
                             </span>
                             <p class="card-text">Elevate your experience with a touch<br>
                                 of class and top-tier excellence.</p>
-                            <span class="d-flex my-2"><h3 class="card-title"><sup>$</sup> 8,499<sub
-                                        style="font-size: small;"> /9 months</sub></h3></span>
+                            <span class="d-flex my-2"><h1 class="card-title">
+                                    <strong><sup>$</sup> 8,499<sub
+                                            style="font-size: small;"> /9 months</sub></strong></h1></span>
                         </div>
                         <div class="my-2">
                             <p class="card-text">Supercharge your success with
                                 premium excellence</p>
                             <div><img src="{{ asset('images/tick.png') }}"
-                                      class="img-fluid mx-2"><span>117 appointments</span></div>
+                                      class="img-fluid mx-2"><span>110 appointments</span></div>
                             <div><img src="{{ asset('images/tick.png') }}"
                                       class="img-fluid mx-2"><span>13 appointments / each month</span></div>
                             <div><img src="{{ asset('images/tick.png') }}"
