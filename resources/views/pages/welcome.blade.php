@@ -53,8 +53,8 @@
             <!-- Explore Services Section -->
             <div class="col-12 col-lg-6 col-md-6 col-sm-12 text-left text-white my-5 py-3 remove-margin">
                 <div class="py-3 ">
-                    <h1>Revolutionizing Real Estate <br>Lead Generation for <br>Unparalleled Results</h1>
-                    <p class="my-3" style="opacity:80%">Real estate lead generation involves the identification <br>and
+                    <h1>Revolutionizing Real Estate <br>Appointment Setting for <br>Unparalleled Results</h1>
+                    <p class="my-3" style="opacity:80%">Real estate appointment setting involves the identification <br>and
                         nurturing of
                         prospective clients interested in <br>property transactions.
                         To generate leads <br>successfully, it is crucial to implement targeted <br>marketing campaigns.
@@ -278,8 +278,64 @@
         </div>
 
 
+
+        <!-- Double image paragraph -->
+        <div class="row my-4 mx-1 text-white">
+            <div class="col-12 col-lg-6 col-md-6 col-sm-12 bg-1">
+                <div class="container p-4">
+                    <h5 class="mt-4">Sustainability</h5>
+                    <p style="opacity: 70%">At Strong Hold Listing, sustainability is at the core of our  operations. We are committed to implementing eco-friendly practices and  promoting sustainable living through our services. From energy-efficient  properties to green building certifications, we strive to make a  positive impact on the environment while helping you find your dream  home.</p>
+
+                    <h5>Our Commitment to Customer Service</h5>
+                    <h5>Proven Results</h5>
+                    <p style="opacity: 70%">We have a solid track record of generating high-quality appointments for our clients, leading to increased revenue and growth in their real estate businesses. Our expertise and strategic approach ensure that you get the best possible outcomes.</p>
+
+                    <h5>Dedicated Team</h5>
+                    <p style="opacity: 70%">Our team consists of experienced professionals who are passionate about  helping you succeed in the competitive real estate industry. We are  dedicated to providing top-notch service and support every step of the  way.</p>
+
+                    <h5>Custom Solutions</h5>
+                    <p style="opacity: 70%">We understand that each real estate business is unique. Therefore, we  tailor our services to meet your specific needs, ensuring a personalized  experience that delivers results. Our custom solutions are designed to  align with your goals and drive success.</p>
+                </div>
+            </div>
+            <div class="col-12 col-lg-6 col-md-6 col-sm-12 bg-2">
+                <div class="container p-4">
+                    <h5 class="mt-4">We Follow Best Practices</h5>
+                    <p style="opacity: 70%">At Strong Hold Listing, sustainability is at the core of our  operations. We are committed to implementing eco-friendly practices and  promoting sustainable living through our services. From energy-efficient  properties to green building certifications, we strive to make a  positive impact on the environment while helping you find your dream  home.</p>
+
+                    <h5 class="my-3">Sustainability</h5>
+                    <h5 class="my-3">Promised Quantity and Quality</h5>
+                    <h5 class="my-3">Modern Technology</h5>
+                    <h5 class="my-3">Latest Techniques</h5>
+
+                </div>
+            </div>
+        </div>
+
+        <!-- our office section -->
+        <h3 class="text-white text-center my-5 remove-margin py-2">Our Location</h3>
+        <div class="row div-stats text-white office-loc mx-auto">
+            <div class="col-12 col-md-7 col-lg-7 col-sm-12 embed-responsive embed-responsive-16by9">
+                    <iframe
+                        class="embed-responsive-item"
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2795.007682067617!2d-75.69698088444564!3d45.42139427910069!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cce05aac5ba4ed5%3A0x491c37dd49ba166a!2s100%20Metcalfe%20St%2C%20Ottawa%2C%20ON%20K1P%200A7%2C%20Canada!5e0!3m2!1sen!2s!4v1684849517480!5m2!1sen!2s"
+                        style="border:0; width: 100%; height: 100%;"
+                        allowfullscreen=""
+                        loading="lazy"
+                        referrerpolicy="no-referrer-when-downgrade">
+                    </iframe>
+            </div>
+            <div class="col-12 col-md-5 col-lg-5 col-sm-12">
+               <div class="container p-5">
+                   <h4 class="mt-3">Canada</h4>
+                   <h4 class="my-3">100 Metcalfe St
+                       Ottawa, Ontario</h4>
+                   <button class="btn btn-start-now text-white p-3" type="button">Get Direction</button>
+               </div>
+            </div>
+        </div>
+
         <!-- Pricing Plan section -->
-        <div class="row pricingPlan text-left p-5 remove-padding" id="Pricing">
+        <div class="row pricingPlan text-left p-5 remove-padding my-2" id="Pricing">
             <h1 class="text-white text-center mb-2">Flexible Pricing Plans</h1>
             <h4 class="text-white text-center mb-2">We have experience working with large and small businesses and are
                 ready to <br>
@@ -381,7 +437,50 @@
             </div>
         </div>
 
+        <!-- Testimonial section -->
+        <div class="text-center text-white">
+            <h5 class="text-uppercase mb-3 gradient-text">3940+ Happy Landingfolio Users</h5>
+            <h1 class="text-white mb-5">Don't just take our words</h1>
+        </div>
+        <div class="row justify-content-center text-white">
+            <div class="col-md-6 mb-4">
+                <div class="testimonial">
+                    <div class="row mx-1">
+                        <div class="col-12 col-md-4 col-lg-4 col-sm-12">
+                            <img src="{{ asset('images/testimonial1.png') }}" alt="Testimonial 1" class="img-fluid">
+                        </div>
+                        <div class="col-12 col-md-8 col-lg-8 col-sm-12">
+                            <div class="stars my-3">
+                                <span>&#9733;&#9733;&#9733;&#9733;&#9733;</span>
+                            </div>
+                            <p>I recently purchased my dream home through Strong Hold Listing, and the experience was fantastic from start to finish.</p>
+                            <div class="testimonial-name">Jenny Wilson</div>
+                        </div>
+                    </div>
 
+
+                </div>
+            </div>
+            <div class="col-md-6 mb-4">
+                <div class="testimonial">
+                    <div class="row mx-1">
+                        <div class="col-12 col-md-4 col-lg-4 col-sm-12">
+                            <img src="{{ asset('images/testimonial2.png') }}" alt="Testimonial 1" class="img-fluid">
+                        </div>
+                        <div class="col-12 col-md-8 col-lg-8 col-sm-12">
+                            <div class="stars my-3">
+                                <span>&#9733;&#9733;&#9733;&#9733;&#9733;</span>
+                            </div>
+                            <p>I had the pleasure of selling my property through Strong Hold Listing, and I couldn't be more satisfied with the outcome.</p>
+                            <div class="testimonial-name">Devon Lane</div>
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+
+        </div>
 
     </div>
 @endsection

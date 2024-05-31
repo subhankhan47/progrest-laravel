@@ -222,7 +222,55 @@ footer ul li a{
     }
 }
 
+.bg-1{
+    position: relative;
+    background-image: url("/images/overlay-dark-gray.png"), url("/images/bg-1.png");
+    background-size: cover, cover;
+    background-repeat: no-repeat, no-repeat;
+    background-position-y: bottom;
+}
+.bg-2{
+    position: relative;
+    background-image: url("/images/overlay-dark-gray.png"), url("/images/bg-2.png");
+    background-size: cover, cover;
+    background-repeat: no-repeat, no-repeat;
+    background-position-y: bottom;
+}
+.bg-1 p, .bg-2 p{
+    line-height: 24.72px;
+}
+.office-loc{
+    height: 300px;
+}
+.marquee {
+    overflow: hidden;
+    position: relative;
+}
 
+.marquee-inner {
+    display: flex;
+    width: 100%;
+    animation: marquee 15s linear infinite;
+}
+
+.stars {
+    color: #ffbb33;
+}
+.testimonial-name {
+    font-weight: bold;
+}
+.gradient-text {
+    background: linear-gradient(180deg, #FC8E51 0%, #FA61F9 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+
+@keyframes marquee {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-100%); }
+}
 @media (max-width: 576px) {
     .main-banner h1:first-child{
         font-size: 25px;
@@ -256,5 +304,8 @@ footer ul li a{
     }
     .card-services2{
         height: 22rem;
+    }
+    .office-loc{
+        height: auto;
     }
 }

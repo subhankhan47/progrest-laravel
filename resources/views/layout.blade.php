@@ -24,28 +24,6 @@
     <!-- Center Content -->
     @yield('content')
 
-    @if (Request::url() == url('/'))
-<!-- Journey section -->
-    <div class="mx-0 row journey text-center py-3">
-        <h1 class="text-white mb-2 py-3">Our Clients</h1>
-        <div class="col-12 col-md-3 col-lg-3 col-sm-6 mb-2">
-            <img src="{{ asset('images/company1.png') }}" class="img-fluid">
-        </div>
-        <div class="col-12 col-md-2 col-lg-2 col-sm-6 mb-2">
-            <img src="{{ asset('images/company2.png') }}" class="img-fluid">
-        </div>
-        <div class="col-12 col-md-2 col-lg-2 col-sm-6 mb-2">
-            <img src="{{ asset('images/company3.png') }}" class="img-fluid">
-        </div>
-        <div class="col-12 col-md-2 col-lg-2 col-sm-6 mb-2">
-            <img src="{{ asset('images/company4.png') }}" class="img-fluid">
-        </div>
-        <div class="col-12 col-md-3 col-lg-3 col-sm-6 mb-2">
-            <img src="{{ asset('images/company5.png') }}" class="img-fluid">
-        </div>
-    </div>
-    @endif
-
     <!-- Footer -->
     @include('partials.footer')
 </div>

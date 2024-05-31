@@ -1,4 +1,45 @@
 <div class="container-fluid" style="background: #1C1C1C;">
+@if (Request::url() == url('/'))
+    <!-- Journey section -->
+        <div class="mx-0 row text-center py-3">
+            <h1 class="text-white mb-2 py-3">Our Clients</h1>
+            <div class="marquee">
+                <div class="marquee-inner d-flex">
+                    <div class="col-6 col-md-3 col-lg-3 col-sm-6 mb-2">
+                        <img src="{{ asset('images/company1.png') }}" class="img-fluid">
+                    </div>
+                    <div class="col-6 col-md-2 col-lg-2 col-sm-6 mb-2">
+                        <img src="{{ asset('images/company2.png') }}" class="img-fluid">
+                    </div>
+                    <div class="col-6 col-md-2 col-lg-2 col-sm-6 mb-2">
+                        <img src="{{ asset('images/company3.png') }}" class="img-fluid">
+                    </div>
+                    <div class="col-6 col-md-2 col-lg-2 col-sm-6 mb-2">
+                        <img src="{{ asset('images/company4.png') }}" class="img-fluid">
+                    </div>
+                    <div class="col-6 col-md-3 col-lg-3 col-sm-6 mb-2">
+                        <img src="{{ asset('images/company5.png') }}" class="img-fluid">
+                    </div>
+
+                    <div class="col-6 col-md-3 col-lg-3 col-sm-6 mb-2">
+                        <img src="{{ asset('images/company1.png') }}" class="img-fluid">
+                    </div>
+                    <div class="col-6 col-md-2 col-lg-2 col-sm-6 mb-2">
+                        <img src="{{ asset('images/company2.png') }}" class="img-fluid">
+                    </div>
+                    <div class="col-6 col-md-2 col-lg-2 col-sm-6 mb-2">
+                        <img src="{{ asset('images/company3.png') }}" class="img-fluid">
+                    </div>
+                    <div class="col-6 col-md-2 col-lg-2 col-sm-6 mb-2">
+                        <img src="{{ asset('images/company4.png') }}" class="img-fluid">
+                    </div>
+                    <div class="col-6 col-md-3 col-lg-3 col-sm-6 mb-2">
+                        <img src="{{ asset('images/company5.png') }}" class="img-fluid">
+                    </div>
+                </div>
+            </div>
+        </div>
+    @endif
     <div class="container">
         <footer class="row row-cols-1 row-cols-sm-2 row-cols-md-5 pt-5 pb-2 mt-5 mb-2 remove-padding">
             <div class="col col-md-4 col-lg-4 mb-3">
@@ -29,7 +70,7 @@
                     <li class="nav-item mb-2"><a href="#" class="nav-link p-0 ">100 Metcalfe St</a></li>
                     <li class="nav-item mb-2"><a href="#" class="nav-link p-0 ">Ottawa, Ontario</a></li>
                     <li class="nav-item mb-2"><a href="mailto:info@strongholdlisting.com" class="nav-link p-0 ">info@strongholdlisting.com</a></li>
-                    <li class="nav-item mb-2"><a href="mailto:contact@strongholdlisting.com" class="nav-link p-0 ">contact@strongholdlisting.com</a></li>
+                    <li class="nav-item mb-2"><a class="nav-link p-0 " href="tel:+1 (343) 453-3003"> +1 (343) 453-3003</a></li>
                 </ul>
             </div>
 
