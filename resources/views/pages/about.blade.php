@@ -13,7 +13,6 @@
     </div>
 </div>
 
-
     <!-- Centralized container section -->
     <div class="section-details container p-2">
         <div class="row py-3 px-4">
