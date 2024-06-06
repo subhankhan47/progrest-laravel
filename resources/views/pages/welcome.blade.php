@@ -442,8 +442,8 @@
             <h5 class="text-uppercase mb-3 gradient-text">3940+ Happy Landingfolio Users</h5>
             <h1 class="text-white mb-5">Don't just take our words</h1>
         </div>
-        <div class="row justify-content-center text-white">
-            <div class="col-md-6 mb-4">
+        <div class="row justify-content-center text-white testimonial-slider">
+            <div class="col-12 col-lg-6 col-md-6 col-sm-12 mb-4">
                 <div class="testimonial">
                     <div class="row mx-1">
                         <div class="col-12 col-md-4 col-lg-4 col-sm-12">
@@ -453,7 +453,7 @@
                             <div class="stars my-3">
                                 <span>&#9733;&#9733;&#9733;&#9733;&#9733;</span>
                             </div>
-                            <p>I recently purchased my dream home through Strong Hold Listing, and the experience was fantastic from start to finish.</p>
+                            <p>Strong Hold Listing has exceeded my expectations as an appointment setting company. They provided high-quality appointments with serious and motivated clients, leading to significant business growth. Their professionalism and tailored approach are top-notch. Highly recommended!</p>
                             <div class="testimonial-name">Jenny Wilson</div>
                         </div>
                     </div>
@@ -461,7 +461,7 @@
 
                 </div>
             </div>
-            <div class="col-md-6 mb-4">
+            <div class="col-12 col-lg-6 col-md-6 col-sm-12 mb-4">
                 <div class="testimonial">
                     <div class="row mx-1">
                         <div class="col-12 col-md-4 col-lg-4 col-sm-12">
@@ -471,12 +471,45 @@
                             <div class="stars my-3">
                                 <span>&#9733;&#9733;&#9733;&#9733;&#9733;</span>
                             </div>
-                            <p>I had the pleasure of selling my property through Strong Hold Listing, and I couldn't be more satisfied with the outcome.</p>
+                            <p>Strong Hold Listing has been a game-changer for my business. Their strong point is the quality of appointments, which have consistently been with motivated clients ready to engage. This has made closing customers much easier and significantly boosted my sales. </p>
                             <div class="testimonial-name">Devon Lane</div>
                         </div>
                     </div>
 
 
+                </div>
+            </div>
+
+            <div class="col-12 col-lg-6 col-md-6 col-sm-12 mb-4">
+                <div class="testimonial">
+                    <div class="row mx-1">
+                        <div class="col-12 col-md-4 col-lg-4 col-sm-12">
+                            <img src="{{ asset('images/testimonial1.png') }}" alt="Testimonial 1" class="img-fluid">
+                        </div>
+                        <div class="col-12 col-md-8 col-lg-8 col-sm-12">
+                            <div class="stars my-3">
+                                <span>&#9733;&#9733;&#9733;&#9733;&#9733;</span>
+                            </div>
+                            <p>Strong Hold Listing has exceeded my expectations as an appointment setting company. They provided high-quality appointments with serious and motivated clients, leading to significant business growth. Their professionalism and tailored approach are top-notch. Highly recommended!</p>
+                            <div class="testimonial-name">Jenny Wilson</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-lg-6 col-md-6 col-sm-12 mb-4">
+                <div class="testimonial">
+                    <div class="row mx-1">
+                        <div class="col-12 col-md-4 col-lg-4 col-sm-12">
+                            <img src="{{ asset('images/testimonial2.png') }}" alt="Testimonial 1" class="img-fluid">
+                        </div>
+                        <div class="col-12 col-md-8 col-lg-8 col-sm-12">
+                            <div class="stars my-3">
+                                <span>&#9733;&#9733;&#9733;&#9733;&#9733;</span>
+                            </div>
+                            <p>Strong Hold Listing has been a game-changer for my business. Their strong point is the quality of appointments, which have consistently been with motivated clients ready to engage. This has made closing customers much easier and significantly boosted my sales. </p>
+                            <div class="testimonial-name">Devon Lane</div>
+                        </div>
+                    </div>
                 </div>
             </div>
 
