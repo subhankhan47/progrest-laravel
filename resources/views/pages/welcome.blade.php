@@ -82,11 +82,11 @@
                         <div class="container">
                             <h5 class="card-title">Inbound and Outbound<br>
                                 Calling Department</h5>
-                            <p class="card-text">Our Cold Calling and Marketing Department go <br>beyond the initial
+                            <p class="card-text">Our Cold Calling and Marketing Department go beyond the initial
                                 contact.
-                                We believe in the power <br>of personalization. Our team creates effective <br>marketing
+                                We believe in the power <br>of personalization. Our team creates effective marketing
                                 campaigns
-                                tailored to your target <br>audience, making those all-important cold calls <br>that
+                                tailored to your target <br>audience, making those all-important cold calls that
                                 transform leads into
                                 solid appointments.</p>
                         </div>
@@ -100,11 +100,11 @@
                         <div class="container">
                             <h5 class="card-title">Appointment Setting<br>
                                 department</h5>
-                            <p class="card-text">The Appointment Confirmation Department is all <br>about ensuring that
+                            <p class="card-text">The Appointment Confirmation Department is all about ensuring that
                                 the appointments
-                                we <br>generate are not only set but also confirmed. We <br>
-                                understand that a confirmed appointment is a <br>significant step toward a successful
-                                real estate <br>deal, and we leave no room for uncertainties.
+                                we generate are not only set but also confirmed. We understand that a confirmed appointment is a
+                                significant step toward a successful
+                                real estate deal, and we leave no room for uncertainties.
                             </p>
                         </div>
                     </div>
@@ -117,12 +117,11 @@
                         <div class="container">
                             <h5 class="card-title">Quality and Validation<br>
                                 Department</h5>
-                            <p class="card-text">Our Quality and Validation Department play a <br>
-                                critical role in maintaining the highest standards.<br>
-                                Every lead generated undergoes a thorough <br>
-                                assessment and validation process. This rigorous <br>quality
-                                assurance ensures that the appointment <br>we provide meet your specific criteria
-                                and are <br>genuinely interested in your services.
+                            <p class="card-text">Our Quality and Validation Department play a
+                                critical role in maintaining the highest standards. Every lead generated undergoes a thorough
+                                assessment and validation process. This rigorous quality
+                                assurance ensures that the appointment we provide meet your specific criteria
+                                and are genuinely interested in your services.
                             </p>
                         </div>
                     </div>
@@ -133,11 +132,11 @@
                     <div class="card-body text-white">
                         <img src="{{ asset('images/cardImg4.png') }}" class="img-fluid mb-2 w-100">
                         <div class="container"><h5 class="card-title">Digital marketing & SEO</h5>
-                            <p class="card-text">A leading Real Estate services and digital <br>marketing solutions
-                                company, that empowers <br>realtors to
-                                increase their sales through digital <br>strategies With our powerful online and digital
-                                marketing <br>solutions,
-                                we assist potential customers to find an <br>exclusive listing leads </p></div>
+                            <p class="card-text">A leading Real Estate services and digital marketing solutions
+                                company, that empowers realtors to
+                                increase their sales through digital strategies With our powerful online and digital
+                                marketing solutions,
+                                we assist potential customers to find an exclusive listing leads </p></div>
                     </div>
                 </div>
             </div>
@@ -147,11 +146,11 @@
                         <img src="{{ asset('images/cardImg5.png') }}" class="img-fluid mb-2 w-100">
                         <div class="container"><h5 class="card-title">Client Advocacy/Dedicated<br>
                                 Assistance</h5>
-                            <p class="card-text">"Your 'Client Advocate' is your personal helper, and <br>
-                                we're proud to introduce this innovative concept in<br>
-                                real estate. They ensure you receive top-notch <br>
-                                support, offering details about appointments and<br>
-                                comprehensive insights about sellers. If you have <br>
+                            <p class="card-text">"Your 'Client Advocate' is your personal helper, and
+                                we're proud to introduce this innovative concept in
+                                real estate. They ensure you receive top-notch
+                                support, offering details about appointments and
+                                comprehensive insights about sellers. If you have
                                 questions or need to make changes, they're just a call away. </p></div>
                     </div>
                 </div>
@@ -161,11 +160,10 @@
                     <div class="card-body text-white">
                         <img src="{{ asset('images/cardImg6.png') }}" class="img-fluid mb-2 w-100">
                         <div class="container"><h5 class="card-title">Accounts Department</h5>
-                            <p class="card-text">Account Management is the dynamic hub where <br>
-                                creativity meets strategy, ensuring our brand's <br>
-                                presence resonates across diverse channels. Our <br>team meticulously curates and
-                                distributes content,
-                                leveraging the power <br>of visual and written communication to engage audiences
+                            <p class="card-text">Account Management is the dynamic hub where
+                                creativity meets strategy, ensuring our brand's
+                                presence resonates across diverse channels. Our team meticulously curates and
+                                distributes content, leveraging the power of visual and written communication to engage audiences
                                 effectively. </p></div>
                     </div>
                 </div>

@@ -1,8 +1,11 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
 .main-div{
     background: #151515;
 }
 .navbar,.navbar * {
-    font-family: Satoshi, serif;
+    /*font-family: Satoshi, serif;*/
     font-size: 18px;
     font-weight: 500;
     color: #FFFFFF;
@@ -55,7 +58,7 @@ a:hover {
     justify-content: center;
 }
 .main-banner *, .section-details *{
-    font-family: Outfit, serif;
+    /*font-family: Outfit, serif;*/
 }
 .main-banner h1:first-child{
     font-size: 68px;
@@ -90,7 +93,7 @@ a:hover {
 }
 .new-service-card{
     background: #FFFFFF1F;
-    height: 33rem;
+    height: 36rem;
     border-radius: 19px;
 
 
@@ -121,9 +124,12 @@ a:hover {
     background-size: cover;
     background-repeat: no-repeat;
 }
-.bestMarketing .card-services, .about-bestMarketing .card-services{
+.bestMarketing .card-services{
     height: 16rem;
 }
+.about-bestMarketing .card-services{
+      height: 20rem;
+  }
 
 .pricingPlan .card-services{
     height: 30rem;
@@ -174,7 +180,7 @@ input::placeholder, textarea::placeholder {
     background: linear-gradient(180deg, #FC8E51 0%, #FA61F9 100%);
 }
 footer, footer *{
-    font-family: Satoshi, serif;
+    /*font-family: Satoshi, serif;*/
     font-size: 20px;
     font-weight: 400;
     line-height: 32px;
@@ -282,7 +288,7 @@ footer ul li a{
 
     }
     .new-service-card{
-        height: 37rem;
+        height: 36rem;
     }
     .remove-padding{
         padding-top: 0 !important;
@@ -297,7 +303,7 @@ footer ul li a{
         height: 20.5rem;
     }
     .pricingPlan .card-services{
-        height: 32rem;
+        height: 35rem;
     }
     .changeToDisplayBlock{
         display: block !important;
