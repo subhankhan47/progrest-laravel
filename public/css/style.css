@@ -107,6 +107,13 @@ a:hover {
     border-image-slice: 1;
     height: 12rem;
 }
+.card-testimonialBorder{
+    border-radius: 8px 0 0 0;
+    background: #FFFFFF1F;
+    border: 1px solid transparent;
+    border-image: linear-gradient(180deg, #FC8E51 0%, #FA61F9 100%);
+    border-image-slice: 1;
+}
 .card-services2{
     gap: 16px;
     border-radius: 8px 0 0 0;

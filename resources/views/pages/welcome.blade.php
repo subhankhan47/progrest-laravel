@@ -443,16 +443,12 @@
         <div class="row justify-content-center text-white testimonial-slider">
             <div class="col-12 col-lg-6 col-md-6 col-sm-12 mb-4">
                 <div class="testimonial">
-                    <div class="row mx-1">
-                        <div class="col-12 col-md-4 col-lg-4 col-sm-12">
-                            <img src="{{ asset('images/testimonial1.png') }}" alt="Testimonial 1" class="img-fluid">
-                        </div>
-                        <div class="col-12 col-md-8 col-lg-8 col-sm-12">
+                    <div class="row mx-1 card-testimonialBorder">
+                        <div class="col-12 col-md-12 col-lg-12 col-sm-12">
                             <div class="stars my-3">
-                                <span>&#9733;&#9733;&#9733;&#9733;&#9733;</span>
+                                <div class="testimonial-name">Ahmad Afzal</div>
                             </div>
                             <p>Strong Hold Listing has exceeded my expectations as an appointment setting company. They provided high-quality appointments with serious and motivated clients, leading to significant business growth. Their professionalism and tailored approach are top-notch. Highly recommended!</p>
-                            <div class="testimonial-name">Frank steven</div>
                         </div>
                     </div>
 
@@ -461,16 +457,12 @@
             </div>
             <div class="col-12 col-lg-6 col-md-6 col-sm-12 mb-4">
                 <div class="testimonial">
-                    <div class="row mx-1">
-                        <div class="col-12 col-md-4 col-lg-4 col-sm-12">
-                            <img src="{{ asset('images/testimonial2.png') }}" alt="Testimonial 1" class="img-fluid">
-                        </div>
-                        <div class="col-12 col-md-8 col-lg-8 col-sm-12">
+                    <div class="row mx-1 card-testimonialBorder">
+                        <div class="col-12 col-md-12 col-lg-12 col-sm-12">
                             <div class="stars my-3">
-                                <span>&#9733;&#9733;&#9733;&#9733;&#9733;</span>
+                                <div class="testimonial-name">Sheila Campos</div>
                             </div>
                             <p>Strong Hold Listing has been a game-changer for my business. Their strong point is the quality of appointments, which have consistently been with motivated clients ready to engage. This has made closing customers much easier and significantly boosted my sales. </p>
-                            <div class="testimonial-name">Andrew greet</div>
                         </div>
                     </div>
 
@@ -480,32 +472,25 @@
 
             <div class="col-12 col-lg-6 col-md-6 col-sm-12 mb-4">
                 <div class="testimonial">
-                    <div class="row mx-1">
-                        <div class="col-12 col-md-4 col-lg-4 col-sm-12">
-                            <img src="{{ asset('images/testimonial3.png') }}" alt="Testimonial 1" class="img-fluid">
-                        </div>
-                        <div class="col-12 col-md-8 col-lg-8 col-sm-12">
+                    <div class="row mx-1 card-testimonialBorder">
+                        <div class="col-12 col-md-12 col-lg-12 col-sm-12">
                             <div class="stars my-3">
-                                <span>&#9733;&#9733;&#9733;&#9733;&#9733;</span>
+                                <div class="testimonial-name">Robert Andrew</div>
                             </div>
                             <p>Strong Hold Listing has been a game-changer for my business! Their team consistently provides top-quality appointments, making my work so much smoother. I've been working with them for a long time now and couldn't be happier with their service.</p>
-                            <div class="testimonial-name">Harjeet singh</div>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="col-12 col-lg-6 col-md-6 col-sm-12 mb-4">
                 <div class="testimonial">
-                    <div class="row mx-1">
-                        <div class="col-12 col-md-4 col-lg-4 col-sm-12">
-                            <img src="{{ asset('images/testimonial4.png') }}" alt="Testimonial 1" class="img-fluid">
-                        </div>
-                        <div class="col-12 col-md-8 col-lg-8 col-sm-12">
+                    <div class="row mx-1 card-testimonialBorder">
+                        <div class="col-12 col-md-12 col-lg-12 col-sm-12">
                             <div class="stars my-3">
-                                <span>&#9733;&#9733;&#9733;&#9733;&#9733;</span>
+                                <div class="testimonial-name">Stephanie Mols</div>
                             </div>
-                            <p>I can't recommend Strong Hold Listing enough! Their ability to secure the best appointments for my business has been outstanding. Having partnered with them for a long time, I've seen firsthand their dedication and excellence.</p>
-                            <div class="testimonial-name">Christopher james</div>
+                            <p>I can't recommend Strong Hold Listing enough! Their ability to secure the best appointments for my business has been outstanding. Having partnered with them for a long time, I've seen firsthand their dedication and excellence. Absolutely game-changer for my business.</p>
+
                         </div>
                     </div>
                 </div>
