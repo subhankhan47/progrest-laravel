@@ -61,6 +61,7 @@
                     <li class="nav-item mb-2"><a href="{{ url('/') }}#qualityServices" class="nav-link p-0">Services</a></li>
                     <li class="nav-item mb-2"><a href="{{ url('/about') }}" class="nav-link p-0 ">About</a></li>
                     <li class="nav-item mb-2"><a href="{{ url('/') }}#Pricing" class="nav-link p-0 ">Packages</a></li>
+                    <li class="nav-item mb-2"><a href="{{ url('/faq') }}" class="nav-link p-0 ">FAQ's</a></li>
                 </ul>
             </div>
 
@@ -70,7 +71,8 @@
                     <li class="nav-item mb-2"><a href="#" class="nav-link p-0 ">100 Metcalfe St</a></li>
                     <li class="nav-item mb-2"><a href="#" class="nav-link p-0 ">Ottawa, Ontario</a></li>
                     <li class="nav-item mb-2"><a href="mailto:info@strongholdlisting.com" class="nav-link p-0 ">info@strongholdlisting.com</a></li>
-                    <li class="nav-item mb-2"><a class="nav-link p-0 " href="tel:+1 (343) 453-3003"> +1 (343) 453-3003</a></li>
+                    <li class="nav-item mb-2"><a class="nav-link p-0 " href="tel:+1 (613) 704-9400"> +1 (613) 704-9400</a></li>
+                    <li class="nav-item mb-2"><a class="nav-link p-0 " href="tel:+1 (343) 300-3535"> +1 (343) 300-3535</a></li>
                 </ul>
             </div>
 
@@ -81,6 +83,7 @@
                     <li class="nav-item mb-2"><a href="{{ url('/webDevelopment') }}" class="nav-link p-0 ">Web Development</a></li>
                     <li class="nav-item mb-2"><a href="{{ url('/mobileDevelopment') }}" class="nav-link p-0 ">Mobile App Development</a></li>
                     <li class="nav-item mb-2"><a href="{{ url('/virtualAssistance') }}" class="nav-link p-0 ">Assistant</a></li>
+                    <li class="nav-item mb-2"><a href="{{ url('/onlineMarketing') }}" class="nav-link p-0 ">Online Marketing</a></li>
                 </ul>
             </div>
 
